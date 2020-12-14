@@ -1,0 +1,2 @@
+# queryjpa
+ 
